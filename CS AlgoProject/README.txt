@@ -1,4 +1,4 @@
-This is a collection of common CS algos written in python.
+This is a collection of common CS algorithms written in python.
 
 Completed so far:
 - Linear Search
