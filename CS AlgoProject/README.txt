@@ -6,3 +6,4 @@ Completed so far:
 - Merge Sort
 - Depth-first Traversal
 - Breadth-first Traversal
+- Quick Sort
